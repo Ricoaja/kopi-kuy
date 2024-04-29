@@ -20,9 +20,16 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Kopi Susu Arabica",
+            "size": "150 ml",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://www.jagel.id/api/listimage/v/Kopi-Arabica-Susu-0-9995e8d0d90f0ce2.jpg"
         }
     ],
-    "robustahu": [
+    "robusta": [
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
@@ -43,6 +50,20 @@
             "harga": "15.000",
             "link": "#",
             "foto": "https://img-global.cpcdn.com/recipes/0a9f92d76b75c8b9/680x482cq70/ice-sweet-robusta-coffee-foto-resep-utama.jpg"
+        },
+        {
+            "nama": "espresso",
+            "size": "180 ml",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://th.bing.com/th/id/OIP.1yZtN5UNeJ3irjct-hJEzgHaEo?rs=1&pid=ImgDetMain"
+        },
+        {
+            "nama": "Cappuccino Robusta",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "#",
+            "foto": "https://thecoffeeholic.vn/storage/photos/2/Phinholic/esp/2.jpg"
         }
     ],
     "nonkopi": [
@@ -66,6 +87,13 @@
             "harga": "8.000",
             "link": "#",
             "foto": "https://i2.wp.com/www.jajanbeken.com/wp-content/uploads/2017/01/2016-12-26-09.46.37-2.jpg?resize=720%2C720"
+        },
+        {
+            "nama": "Susu Soda Gembira",
+            "size": "210 ml",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://th.bing.com/th/id/R.75a22ff50b49902ecdc625e61c111f6b?rik=aJgRu%2bqr4RkkVg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-l9589tjbsP0%2fVHFlUrFnkUI%2fAAAAAAAABQM%2faiYMENSRpr8%2fs1600%2fResep-Siap-sajiku-susu-soda-gembira.jpg&ehk=rnbjYusHjt1rBLHK%2bY46WQzhOMlK4kOz1Xbo1NXvpGA%3d&risl=&pid=ImgRaw&r=0"
         }
     ],
     "makanan": [
@@ -89,6 +117,27 @@
             "harga": "30.000",
             "link": "#",
             "foto": "https://cdn-2.tstatic.net/jateng/foto/bank/images/bakso-lava.jpg"
+        },
+        {
+            "nama": "Nasi Goreng Nusantara",
+            "size": "1 Porsi",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://assets-a1.kompasiana.com/items/album/2021/01/13/resep-dan-cara-membuat-nasi-goreng-jawa-asli-enak-5ffdeebad541df7d1c59f554.jpg?t=o&v=1200"
+        },
+        {
+            "nama": "Spaghetti",
+            "size": "1 Porsi",
+            "harga": "27.000",
+            "link": "#",
+            "foto": "https://th.bing.com/th/id/OIP.oDtzKCux1ZemHEm9bQ7NnwHaE8?rs=1&pid=ImgDetMain"
+        },
+        {
+            "nama": "Ikan Bakar",
+            "size": "1 Porsi",
+            "harga": "35.000",
+            "link": "#",
+            "foto": "https://th.bing.com/th/id/OIP.AIlFFL-zEcU2Ix5kdaSA5QAAAA?rs=1&pid=ImgDetMain"
         }
     ]
 }
